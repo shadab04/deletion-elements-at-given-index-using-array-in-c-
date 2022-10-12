@@ -1,0 +1,1 @@
+# deletion-elements-at-given-index-using-array-in-c-
